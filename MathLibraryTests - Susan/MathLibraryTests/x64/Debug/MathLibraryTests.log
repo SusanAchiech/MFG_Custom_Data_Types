@@ -1,0 +1,501 @@
+﻿  ColourTests.cpp
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(26,18): error C2039: 'ToString': is not a member of 'MathClasses::Vector3'
+  Matrix3Tests.cpp
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(40,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(70,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(84,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(92,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(106,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(114,33): error C2039: 'GetRed': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(115,25): error C2039: 'GetGreen': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(116,25): error C2039: 'GetBlue': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(117,25): error C2039: 'GetAlpha': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(131,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(21,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(27,19): error C2078: too many initializers
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(29,68): error C2039: 'colour': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(29,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(36,26): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(42,17): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(43,11): error C2039: 'SetRed': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(44,69): error C2039: 'colour': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(44,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(50,17): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(51,11): error C2039: 'SetGreen': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(52,68): error C2039: 'colour': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(52,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(58,17): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(59,11): error C2039: 'SetBlue': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(60,68): error C2039: 'colour': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(60,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(66,17): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(67,11): error C2039: 'SetAlpha': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(68,67): error C2039: 'colour': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(68,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(73,17): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(74,22): error C2039: 'GetRed': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(75,21): error C3536: 'red': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(75,12): error C2665: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(80,17): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(81,24): error C2039: 'GetGreen': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(82,21): error C3536: 'green': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(82,12): error C2665: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(87,17): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(88,23): error C2039: 'GetBlue': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(89,21): error C3536: 'blue': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(89,12): error C2665: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(94,17): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(95,24): error C2039: 'GetAlpha': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(96,21): error C3536: 'alpha': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\ColourTests.cpp(96,12): error C2665: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(26,18): error C2039: 'ToString': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(40,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(70,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(84,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(92,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(106,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(114,33): error C2039: 'GetRed': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(115,25): error C2039: 'GetGreen': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(116,25): error C2039: 'GetBlue': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(117,25): error C2039: 'GetAlpha': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(131,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(22,30): error C2039: 'm1': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(22,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(23,30): error C2039: 'm2': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(23,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(24,30): error C2039: 'm3': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(24,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(26,30): error C2039: 'm4': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(26,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(27,30): error C2039: 'm5': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(27,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(28,30): error C2039: 'm6': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(28,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(30,30): error C2039: 'm7': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(30,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(31,30): error C2039: 'm8': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(31,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(32,30): error C2039: 'm9': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(32,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(37,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(41,30): error C2039: 'm1': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(41,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(42,30): error C2039: 'm2': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(42,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(43,30): error C2039: 'm3': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(43,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(45,30): error C2039: 'm4': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(45,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(46,30): error C2039: 'm5': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(46,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(47,30): error C2039: 'm6': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(47,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(49,30): error C2039: 'm7': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(49,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(50,30): error C2039: 'm8': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(50,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(51,30): error C2039: 'm9': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(51,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(62,15): error C2440: 'initializing': cannot convert from 'float [9]' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(64,30): error C2039: 'm1': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(64,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(65,30): error C2039: 'm2': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(65,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(66,30): error C2039: 'm3': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(66,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(68,30): error C2039: 'm4': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(68,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(69,30): error C2039: 'm5': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(69,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(70,30): error C2039: 'm6': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(70,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(72,30): error C2039: 'm7': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(72,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(73,30): error C2039: 'm8': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(73,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(74,30): error C2039: 'm9': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(74,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(79,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(83,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(84,18): error C2678: binary '*': no operator found which takes a left-hand operand of type 'MathClasses::Matrix3' (or there is no acceptable conversion)
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(86,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(91,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(92,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(94,18): error C2678: binary '*': no operator found which takes a left-hand operand of type 'MathClasses::Matrix3' (or there is no acceptable conversion)
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(96,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(101,27): error C2039: 'MakeIdentity': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(101,16): error C2440: 'initializing': cannot convert from 'void' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(103,30): error C2039: 'm1': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(103,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(104,30): error C2039: 'm2': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(104,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(105,30): error C2039: 'm3': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(105,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(107,30): error C2039: 'm4': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(107,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(108,30): error C2039: 'm5': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(108,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(109,30): error C2039: 'm6': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(109,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(111,30): error C2039: 'm7': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(111,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(112,30): error C2039: 'm8': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(112,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(112,12): error C1003: error count exceeds 100; stopping compilation
+  Matrix3TransformTests.cpp
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(26,18): error C2039: 'ToString': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(40,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(70,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(84,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(92,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(106,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(114,33): error C2039: 'GetRed': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(115,25): error C2039: 'GetGreen': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(116,25): error C2039: 'GetBlue': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(117,25): error C2039: 'GetAlpha': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(131,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(19,30): error C2039: 'MakeTranslation': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(19,30): error C3861: 'MakeTranslation': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(22,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(31,30): error C2039: 'MakeTranslation': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(31,53): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(31,30): error C3861: 'MakeTranslation': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(34,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(42,30): error C2039: 'MakeRotateX': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(42,30): error C3861: 'MakeRotateX': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(45,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(54,30): error C2039: 'MakeRotateY': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(54,30): error C3861: 'MakeRotateY': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(57,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(66,30): error C2039: 'MakeRotateZ': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(66,30): error C3861: 'MakeRotateZ': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(69,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(78,30): error C2039: 'MakeEuler': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(78,30): error C3861: 'MakeEuler': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(81,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(90,30): error C2039: 'MakeEuler': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(90,47): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(90,30): error C3861: 'MakeEuler': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(93,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(103,30): error C2039: 'MakeScale': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(103,30): error C3861: 'MakeScale': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(106,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(113,30): error C2039: 'MakeScale': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(113,30): error C3861: 'MakeScale': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(116,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(123,30): error C2039: 'MakeScale': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(123,47): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(123,30): error C3861: 'MakeScale': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(126,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
+  Matrix4Tests.cpp
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(26,18): error C2039: 'ToString': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(40,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(70,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(84,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(92,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(106,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(114,33): error C2039: 'GetRed': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(115,25): error C2039: 'GetGreen': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(116,25): error C2039: 'GetBlue': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(117,25): error C2039: 'GetAlpha': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(131,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(21,39): error C2039: 'm1': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(21,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(22,39): error C2039: 'm2': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(22,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(23,39): error C2039: 'm3': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(23,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(24,39): error C2039: 'm4': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(24,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(26,39): error C2039: 'm5': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(26,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(27,39): error C2039: 'm6': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(27,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(28,39): error C2039: 'm7': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(28,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(29,39): error C2039: 'm8': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(29,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(31,39): error C2039: 'm9': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(31,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(32,39): error C2039: 'm10': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(32,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(33,39): error C2039: 'm11': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(33,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(34,39): error C2039: 'm12': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(34,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(37,39): error C2039: 'm13': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(37,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(38,39): error C2039: 'm14': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(38,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(39,39): error C2039: 'm15': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(39,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(40,39): error C2039: 'm16': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(40,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(45,24): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(50,39): error C2039: 'm1': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(50,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(51,39): error C2039: 'm2': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(51,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(52,39): error C2039: 'm3': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(52,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(53,39): error C2039: 'm4': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(53,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(55,39): error C2039: 'm5': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(55,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(56,39): error C2039: 'm6': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(56,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(57,39): error C2039: 'm7': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(57,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(58,39): error C2039: 'm8': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(58,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(60,39): error C2039: 'm9': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(60,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(61,40): error C2039: 'm10': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(61,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(62,40): error C2039: 'm11': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(62,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(63,40): error C2039: 'm12': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(63,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(65,40): error C2039: 'm13': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(65,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(66,40): error C2039: 'm14': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(66,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(67,40): error C2039: 'm15': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(67,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(68,40): error C2039: 'm16': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(68,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(80,24): error C2440: 'initializing': cannot convert from 'float [16]' to 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(82,39): error C2039: 'm1': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(82,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(83,39): error C2039: 'm2': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(83,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(84,39): error C2039: 'm3': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(84,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(85,39): error C2039: 'm4': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(85,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(87,39): error C2039: 'm5': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(87,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(88,39): error C2039: 'm6': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(88,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(89,39): error C2039: 'm7': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(89,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(90,39): error C2039: 'm8': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(90,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4Tests.cpp(90,21): error C1003: error count exceeds 100; stopping compilation
+  Matrix4TransformTests.cpp
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(26,18): error C2039: 'ToString': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(40,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(70,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(84,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(92,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(106,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(114,33): error C2039: 'GetRed': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(115,25): error C2039: 'GetGreen': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(116,25): error C2039: 'GetBlue': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(117,25): error C2039: 'GetAlpha': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(131,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(19,30): error C2039: 'MakeTranslation': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(19,30): error C3861: 'MakeTranslation': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(22,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(30,30): error C2039: 'MakeTranslation': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(30,53): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(30,30): error C3861: 'MakeTranslation': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(33,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(41,30): error C2039: 'MakeRotateX': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(41,30): error C3861: 'MakeRotateX': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(44,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(52,30): error C2039: 'MakeRotateY': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(52,30): error C3861: 'MakeRotateY': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(55,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(63,30): error C2039: 'MakeRotateZ': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(63,30): error C3861: 'MakeRotateZ': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(66,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(74,30): error C2039: 'MakeEuler': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(74,47): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(74,30): error C3861: 'MakeEuler': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(77,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(86,30): error C2039: 'MakeEuler': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(86,47): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(86,30): error C3861: 'MakeEuler': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(89,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(98,30): error C2039: 'MakeScale': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(98,30): error C3861: 'MakeScale': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(101,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(110,30): error C2039: 'MakeScale': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(110,47): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(110,30): error C3861: 'MakeScale': identifier not found
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(113,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
+  Vector3Tests.cpp
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(26,18): error C2039: 'ToString': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(40,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(70,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(84,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(92,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(106,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(114,33): error C2039: 'GetRed': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(115,25): error C2039: 'GetGreen': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(116,25): error C2039: 'GetBlue': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(117,25): error C2039: 'GetAlpha': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(131,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(19,30): error C2039: 'x': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(19,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(20,30): error C2039: 'y': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(20,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(21,30): error C2039: 'z': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(21,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(26,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(27,30): error C2039: 'x': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(27,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(28,30): error C2039: 'y': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(28,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(29,30): error C2039: 'z': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(29,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(34,16): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(35,22): error C2039: 'Magnitude': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(38,16): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(39,16): error C2039: 'Magnitude': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(45,24): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(46,37): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(46,79): error C2039: 'Normalised': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(46,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(48,24): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(49,37): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(49,52): error C2039: 'Normalised': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(49,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(54,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(55,8): error C2039: 'Normalise': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(56,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(58,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(59,8): error C2039: 'Normalise': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(60,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(65,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(66,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(67,21): error C2039: 'Dot': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(72,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(73,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(74,15): error C2039: 'Dot': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(81,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(82,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(83,22): error C2039: 'Cross': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(85,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(90,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(91,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(92,22): error C2676: binary '+': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(94,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(99,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(100,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(101,22): error C2676: binary '-': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(103,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(108,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(109,18): error C2678: binary '*': no operator found which takes a left-hand operand of type 'MathClasses::Vector3' (or there is no acceptable conversion)
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(111,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(116,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(117,18): error C2679: binary '*': no operator found which takes a right-hand operand of type 'MathClasses::Vector3' (or there is no acceptable conversion)
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(119,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(134,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(135,22): error C2676: binary '/': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(137,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(141,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(142,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(144,23): error C2676: binary '==': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(149,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(150,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(152,23): error C2676: binary '!=': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(152,39): error C2676: binary '==': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(155,21): error C2440: 'initializing': cannot convert from 'initializer list' to 'const MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(157,26): error C2676: binary '[': 'const MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(158,26): error C2676: binary '[': 'const MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(159,26): error C2676: binary '[': 'const MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(162,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(163,9): error C2676: binary '[': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(164,26): error C2676: binary '[': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(165,9): error C2676: binary '[': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(166,26): error C2676: binary '[': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(167,9): error C2676: binary '[': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(168,26): error C2676: binary '[': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(172,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(174,15): error C2440: 'type cast': cannot convert from 'MathClasses::Vector3' to 'float *'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(179,21): error C2440: 'type cast': cannot convert from 'MathClasses::Vector3' to 'float *'
+  Vector4Tests.cpp
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(26,18): error C2039: 'ToString': is not a member of 'MathClasses::Vector3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(40,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(70,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(81,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(84,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(92,18): error C2039: 'ToString': is not a member of 'MathClasses::Matrix4'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(103,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(106,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(114,33): error C2039: 'GetRed': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(115,25): error C2039: 'GetGreen': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(116,25): error C2039: 'GetBlue': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(117,25): error C2039: 'GetAlpha': is not a member of 'MathClasses::Colour'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,21): error C3536: 'str': cannot be used before it is initialized
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(131,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(169,26): error C2676: binary '[': 'const MathClasses::Vector4' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(170,26): error C2676: binary '[': 'const MathClasses::Vector4' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(171,26): error C2676: binary '[': 'const MathClasses::Vector4' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(172,26): error C2676: binary '[': 'const MathClasses::Vector4' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(177,9): error C2676: binary '[': 'MathClasses::Vector4' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(178,26): error C2676: binary '[': 'MathClasses::Vector4' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(179,9): error C2676: binary '[': 'MathClasses::Vector4' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(180,26): error C2676: binary '[': 'MathClasses::Vector4' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(181,9): error C2676: binary '[': 'MathClasses::Vector4' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(182,26): error C2676: binary '[': 'MathClasses::Vector4' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(183,9): error C2676: binary '[': 'MathClasses::Vector4' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(184,26): error C2676: binary '[': 'MathClasses::Vector4' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(190,15): error C2440: 'type cast': cannot convert from 'MathClasses::Vector4' to 'float *'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector4Tests.cpp(196,21): error C2440: 'type cast': cannot convert from 'MathClasses::Vector4' to 'float *'
+  Generating Code...
