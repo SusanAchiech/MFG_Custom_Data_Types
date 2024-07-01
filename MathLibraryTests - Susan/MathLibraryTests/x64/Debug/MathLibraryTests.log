@@ -132,9 +132,7 @@ C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Ma
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(74,30): error C2039: 'm9': is not a member of 'MathClasses::Matrix3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(74,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(79,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(83,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(84,18): error C2678: binary '*': no operator found which takes a left-hand operand of type 'MathClasses::Matrix3' (or there is no acceptable conversion)
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(86,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(91,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(92,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(94,18): error C2678: binary '*': no operator found which takes a left-hand operand of type 'MathClasses::Matrix3' (or there is no acceptable conversion)
@@ -157,7 +155,9 @@ C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Ma
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(111,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(112,30): error C2039: 'm8': is not a member of 'MathClasses::Matrix3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(112,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(112,12): error C1003: error count exceeds 100; stopping compilation
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(113,30): error C2039: 'm9': is not a member of 'MathClasses::Matrix3'
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(113,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3Tests.cpp(113,12): error C1003: error count exceeds 100; stopping compilation
   Matrix3TransformTests.cpp
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(26,18): error C2039: 'ToString': is not a member of 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(37,21): error C3536: 'str': cannot be used before it is initialized
@@ -182,7 +182,6 @@ C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Ma
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(19,30): error C3861: 'MakeTranslation': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(22,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(31,30): error C2039: 'MakeTranslation': is not a member of 'MathClasses::Matrix3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(31,53): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(31,30): error C3861: 'MakeTranslation': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(34,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(42,30): error C2039: 'MakeRotateX': is not a member of 'MathClasses::Matrix3'
@@ -198,7 +197,6 @@ C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Ma
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(78,30): error C3861: 'MakeEuler': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(81,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(90,30): error C2039: 'MakeEuler': is not a member of 'MathClasses::Matrix3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(90,47): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(90,30): error C3861: 'MakeEuler': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(93,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(103,30): error C2039: 'MakeScale': is not a member of 'MathClasses::Matrix3'
@@ -208,7 +206,6 @@ C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Ma
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(113,30): error C3861: 'MakeScale': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(116,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(123,30): error C2039: 'MakeScale': is not a member of 'MathClasses::Matrix3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(123,47): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(123,30): error C3861: 'MakeScale': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix3TransformTests.cpp(126,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix3'
   Matrix4Tests.cpp
@@ -338,7 +335,6 @@ C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Ma
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(19,30): error C3861: 'MakeTranslation': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(22,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(30,30): error C2039: 'MakeTranslation': is not a member of 'MathClasses::Matrix4'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(30,53): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(30,30): error C3861: 'MakeTranslation': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(33,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(41,30): error C2039: 'MakeRotateX': is not a member of 'MathClasses::Matrix4'
@@ -351,18 +347,15 @@ C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Ma
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(63,30): error C3861: 'MakeRotateZ': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(66,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(74,30): error C2039: 'MakeEuler': is not a member of 'MathClasses::Matrix4'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(74,47): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(74,30): error C3861: 'MakeEuler': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(77,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(86,30): error C2039: 'MakeEuler': is not a member of 'MathClasses::Matrix4'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(86,47): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(86,30): error C3861: 'MakeEuler': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(89,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(98,30): error C2039: 'MakeScale': is not a member of 'MathClasses::Matrix4'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(98,30): error C3861: 'MakeScale': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(101,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(110,30): error C2039: 'MakeScale': is not a member of 'MathClasses::Matrix4'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(110,47): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(110,30): error C3861: 'MakeScale': identifier not found
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Matrix4TransformTests.cpp(113,12): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Matrix4'
   Vector3Tests.cpp
@@ -385,83 +378,25 @@ C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Te
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,21): error C3536: 'str': cannot be used before it is initialized
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(128,20): error C2665: 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>::basic_string': no overloaded function could convert all the argument types
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\TestToString.h(131,5): error C2660: 'mbstowcs_s': function does not take 3 arguments
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(19,30): error C2039: 'x': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(19,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(20,30): error C2039: 'y': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(20,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(21,30): error C2039: 'z': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(21,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(26,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(27,30): error C2039: 'x': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(27,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(28,30): error C2039: 'y': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(28,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(29,30): error C2039: 'z': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(29,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(34,16): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(35,22): error C2039: 'Magnitude': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(38,16): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(39,16): error C2039: 'Magnitude': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(45,24): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(46,37): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(46,79): error C2039: 'Normalised': is not a member of 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(46,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(48,24): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(49,37): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(49,52): error C2039: 'Normalised': is not a member of 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(49,21): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(54,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(55,8): error C2039: 'Normalise': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(56,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(58,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(59,8): error C2039: 'Normalise': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(60,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(65,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(66,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(67,21): error C2039: 'Dot': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(72,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(73,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(74,15): error C2039: 'Dot': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(81,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(82,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(83,22): error C2039: 'Cross': is not a member of 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(85,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(90,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(91,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(92,22): error C2676: binary '+': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(94,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(99,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(100,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(101,22): error C2676: binary '-': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(103,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(108,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(109,18): error C2678: binary '*': no operator found which takes a left-hand operand of type 'MathClasses::Vector3' (or there is no acceptable conversion)
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(111,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(116,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(117,18): error C2679: binary '*': no operator found which takes a right-hand operand of type 'MathClasses::Vector3' (or there is no acceptable conversion)
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(119,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(134,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(135,22): error C2676: binary '/': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(137,28): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(141,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(142,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(144,23): error C2676: binary '==': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(149,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(150,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(152,23): error C2676: binary '!=': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(152,39): error C2676: binary '==': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(155,21): error C2440: 'initializing': cannot convert from 'initializer list' to 'const MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(157,26): error C2676: binary '[': 'const MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(158,26): error C2676: binary '[': 'const MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(159,26): error C2676: binary '[': 'const MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(162,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(163,9): error C2676: binary '[': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(164,26): error C2676: binary '[': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(165,9): error C2676: binary '[': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(166,26): error C2676: binary '[': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(167,9): error C2676: binary '[': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(168,26): error C2676: binary '[': 'MathClasses::Vector3' does not define this operator or a conversion to a type acceptable to the predefined operator
-C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(172,15): error C2440: 'initializing': cannot convert from 'initializer list' to 'MathClasses::Vector3'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(174,15): error C2440: 'type cast': cannot convert from 'MathClasses::Vector3' to 'float *'
 C:\Users\USER\Documents\GitHub\MFG_Custom_Data_Types\MathLibraryTests - Susan\Vector3Tests.cpp(179,21): error C2440: 'type cast': cannot convert from 'MathClasses::Vector3' to 'float *'
   Vector4Tests.cpp
