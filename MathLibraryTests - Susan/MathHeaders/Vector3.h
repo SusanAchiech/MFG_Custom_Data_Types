@@ -64,4 +64,4 @@ namespace MathClasses
 	};
 }
 
-#endif // VECTOR3_H
+#endif
