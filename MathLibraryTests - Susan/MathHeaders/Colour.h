@@ -2,6 +2,7 @@
 #define COLOUR_H
 #pragma once
 
+#include <UnitTestLib.h>
 namespace MathClasses
 {
     struct Colour
